@@ -1,4 +1,5 @@
-- Can't spell Grizzly without rizz
+Can't spell Grizzly without rizz
+- Ken
 
 <!---
 thegrizzlywolf/thegrizzlywolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
