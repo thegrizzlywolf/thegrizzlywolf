@@ -1,4 +1,3 @@
-Can't spell Grizzly without rizz
 - Ken
 
 <!---
